@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import Clock from 'react-clock';
 import { Page } from 'react-onsenui';
 
 // Webpack CSS import

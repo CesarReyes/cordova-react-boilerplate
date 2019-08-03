@@ -11,6 +11,9 @@ $ cordova requirements
 
 $ git clone git@github.com:CesarReyes/cordova-react-boilerplate.git
 $ mv cordova-react-boilerplate/app .
-$rm -rf cordova-react-boilerplate
+$ rm -rf cordova-react-boilerplate
+$ cd app/
+$ npm install
+$ npm start
 ```
 `$ cordova create hello com.example.hello HelloWorld`
